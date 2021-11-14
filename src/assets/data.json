@@ -1,0 +1,2004 @@
+{
+    "venues": [
+        {
+            "name": "634 W 207 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.86831514423861,
+                -73.92162143925778
+            ]
+        },
+        {
+            "name": "634 DEAN ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.68045220328081,
+                -73.96926040273163
+            ]
+        },
+        {
+            "name": "63-40 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7339667872251,
+                -73.85014762604226
+            ]
+        },
+        {
+            "name": "63-46 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73385691761056,
+                -73.8500865323254
+            ]
+        },
+        {
+            "name": "635 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.726238924990774,
+                -73.99609988993079
+            ]
+        },
+        {
+            "name": "635 FULTON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.688441810980635,
+                -73.97973525315159
+            ]
+        },
+        {
+            "name": "635 FULTON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.688441810980635,
+                -73.97973525315159
+            ]
+        },
+        {
+            "name": "635 FULTON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.688441810980635,
+                -73.97973525315159
+            ]
+        },
+        {
+            "name": "635 FULTON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.688441810980635,
+                -73.97973525315159
+            ]
+        },
+        {
+            "name": "635 GLENMORE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.674567930577204,
+                -73.88675369135288
+            ]
+        },
+        {
+            "name": "635 MEEKER AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72221938923984,
+                -73.94122769825954
+            ]
+        },
+        {
+            "name": "635 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67810252396375,
+                -73.96869185338097
+            ]
+        },
+        {
+            "name": "63-52 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.733744307016124,
+                -73.85002905325568
+            ]
+        },
+        {
+            "name": "63-53 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73349158835294,
+                -73.84987446555975
+            ]
+        },
+        {
+            "name": "63-54 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.733708601840945,
+                -73.85001109224402
+            ]
+        },
+        {
+            "name": "63-57 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71074767687748,
+                -73.89957295064126
+            ]
+        },
+        {
+            "name": "63-57 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71074767687748,
+                -73.89957295064126
+            ]
+        },
+        {
+            "name": "636 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72624715814028,
+                -73.99606741866185
+            ]
+        },
+        {
+            "name": "636 METROPOLITAN AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71418050512514,
+                -73.94801275248417
+            ]
+        },
+        {
+            "name": "636 CARLTON AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67758194508443,
+                -73.97231175848903
+            ]
+        },
+        {
+            "name": "636 NOSTRAND AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67661094239818,
+                -73.94987707928443
+            ]
+        },
+        {
+            "name": "636 METROPOLITAN AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71418050512514,
+                -73.94801275248417
+            ]
+        },
+        {
+            "name": "636 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72624715814028,
+                -73.99606741866185
+            ]
+        },
+        {
+            "name": "636 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72624715814028,
+                -73.99606741866185
+            ]
+        },
+        {
+            "name": "636 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72624715814028,
+                -73.99606741866185
+            ]
+        },
+        {
+            "name": "63-60 80 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71986652591631,
+                -73.87509294178943
+            ]
+        },
+        {
+            "name": "63-60 80 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71986652591631,
+                -73.87509294178943
+            ]
+        },
+        {
+            "name": "63-60 80 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71986652591631,
+                -73.87509294178943
+            ]
+        },
+        {
+            "name": "63-60 80 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71986652591631,
+                -73.87509294178943
+            ]
+        },
+        {
+            "name": "637 WASHINGTON AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67830970696428,
+                -73.96384986622712
+            ]
+        },
+        {
+            "name": "637 9 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.760210440008954,
+                -73.99134751964037
+            ]
+        },
+        {
+            "name": "637 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67804214494776,
+                -73.96871351327202
+            ]
+        },
+        {
+            "name": "637 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67804214494776,
+                -73.96871351327202
+            ]
+        },
+        {
+            "name": "63-75 SAUNDERS ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.729079726195145,
+                -73.8622202618424
+            ]
+        },
+        {
+            "name": "63-77 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73325812886956,
+                -73.84975591928581
+            ]
+        },
+        {
+            "name": "638 FOREST AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.629808654382,
+                -74.11050438757164
+            ]
+        },
+        {
+            "name": "638 BERGEN ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.679510596540446,
+                -73.96870561368208
+            ]
+        },
+        {
+            "name": "638 FOREST AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.629808654382,
+                -74.11050438757164
+            ]
+        },
+        {
+            "name": "638 GRAND ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71137473216887,
+                -73.94664425529047
+            ]
+        },
+        {
+            "name": "639 HENDRIX ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66606001419677,
+                -73.88766929162199
+            ]
+        },
+        {
+            "name": "639 HENDRIX ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66606001419677,
+                -73.88766929162199
+            ]
+        },
+        {
+            "name": "639 HENDRIX ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66606001419677,
+                -73.88766929162199
+            ]
+        },
+        {
+            "name": "639 HENDRIX ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66606001419677,
+                -73.88766929162199
+            ]
+        },
+        {
+            "name": "639 HENDRIX ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66606001419677,
+                -73.88766929162199
+            ]
+        },
+        {
+            "name": "639 4 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66370756245131,
+                -73.99463651928143
+            ]
+        },
+        {
+            "name": "639 4 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66370756245131,
+                -73.99463651928143
+            ]
+        },
+        {
+            "name": "639 4 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66370756245131,
+                -73.99463651928143
+            ]
+        },
+        {
+            "name": "639 5 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.662941598343636,
+                -73.99175302197621
+            ]
+        },
+        {
+            "name": "639 GRAND ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.711393922045865,
+                -73.94659374106254
+            ]
+        },
+        {
+            "name": "64 W BURNSIDE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.854286670933845,
+                -73.90991511098434
+            ]
+        },
+        {
+            "name": "64 ESSEX ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.717164284327104,
+                -73.98890730383911
+            ]
+        },
+        {
+            "name": "64 7 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73860685373489,
+                -73.99965718808298
+            ]
+        },
+        {
+            "name": "64 W 3 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.729447596337884,
+                -73.99816711293386
+            ]
+        },
+        {
+            "name": "64 THOMPSON ST",
+            "description": "0.2 PCT ANNUAL CHANCE FLOOD HAZARD",
+            "geometry": [
+                40.72427644679953,
+                -74.00312071709499
+            ]
+        },
+        {
+            "name": "64 E 4 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.726669532540186,
+                -73.9905797852808
+            ]
+        },
+        {
+            "name": "64 W 225 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.87373441007489,
+                -73.90839540628482
+            ]
+        },
+        {
+            "name": "64 PRESIDENT ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.6839860058302,
+                -74.00431949163118
+            ]
+        },
+        {
+            "name": "64 5 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.681099091538,
+                -73.97730021395097
+            ]
+        },
+        {
+            "name": "64 W BURNSIDE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.854286670933845,
+                -73.90991511098434
+            ]
+        },
+        {
+            "name": "64 W 40 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.75322431687713,
+                -73.98428135184353
+            ]
+        },
+        {
+            "name": "64 E 116 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.79970498349152,
+                -73.94420407954343
+            ]
+        },
+        {
+            "name": "64 GRAND ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71585846360514,
+                -73.96493694526481
+            ]
+        },
+        {
+            "name": "64 MANHATTAN AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.704478854854486,
+                -73.94446772374778
+            ]
+        },
+        {
+            "name": "64 7 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67552941344139,
+                -73.97474607250169
+            ]
+        },
+        {
+            "name": "64 7 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67552941344139,
+                -73.97474607250169
+            ]
+        },
+        {
+            "name": "64 4 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.682738126820944,
+                -73.97945936087149
+            ]
+        },
+        {
+            "name": "64 W 37 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.75115214392641,
+                -73.9851191808319
+            ]
+        },
+        {
+            "name": "64 HENRY ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.69907107694711,
+                -73.99224262997303
+            ]
+        },
+        {
+            "name": "640 MELROSE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.81842935612429,
+                -73.91668720446235
+            ]
+        },
+        {
+            "name": "640 BLAKE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66776616310647,
+                -73.89522549940357
+            ]
+        },
+        {
+            "name": "640 WASHINGTON AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67913594265513,
+                -73.96403689482129
+            ]
+        },
+        {
+            "name": "640 WASHINGTON AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67913594265513,
+                -73.96403689482129
+            ]
+        },
+        {
+            "name": "640 FLATBUSH AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.65770900195656,
+                -73.96035778022362
+            ]
+        },
+        {
+            "name": "640 HUDSON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73892786124617,
+                -74.00545614113058
+            ]
+        },
+        {
+            "name": "640 HUDSON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73892786124617,
+                -74.00545614113058
+            ]
+        },
+        {
+            "name": "640 HUDSON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73892786124617,
+                -74.00545614113058
+            ]
+        },
+        {
+            "name": "64-01 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74971683559178,
+                -73.89854334463962
+            ]
+        },
+        {
+            "name": "64-01 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71022865881375,
+                -73.89927795855364
+            ]
+        },
+        {
+            "name": "64-01 GRAND AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72286757976537,
+                -73.90163271818393
+            ]
+        },
+        {
+            "name": "64-01 ROOSEVELT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74596595128601,
+                -73.89990240998242
+            ]
+        },
+        {
+            "name": "64-01 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.732846139213926,
+                -73.84954396277674
+            ]
+        },
+        {
+            "name": "64-01 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.732846139213926,
+                -73.84954396277674
+            ]
+        },
+        {
+            "name": "64-01 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71022865881375,
+                -73.89927795855364
+            ]
+        },
+        {
+            "name": "64-02 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73280496714172,
+                -73.84954405574032
+            ]
+        },
+        {
+            "name": "64-03 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74966182626388,
+                -73.89841349834671
+            ]
+        },
+        {
+            "name": "6404 11 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.629145240046256,
+                -74.00541834505806
+            ]
+        },
+        {
+            "name": "64-04 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7102039623271,
+                -73.89928520986957
+            ]
+        },
+        {
+            "name": "64-04 ROOSEVELT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7459521984432,
+                -73.89986995023357
+            ]
+        },
+        {
+            "name": "64-05 ROOSEVELT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74596867093298,
+                -73.89987353441146
+            ]
+        },
+        {
+            "name": "64-06 ROOSEVELT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74595493063451,
+                -73.89985551038775
+            ]
+        },
+        {
+            "name": "64-07 GRAND AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72288400202437,
+                -73.90157857866322
+            ]
+        },
+        {
+            "name": "6408 FT HAMILTON PY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.631049927787984,
+                -74.0086213237777
+            ]
+        },
+        {
+            "name": "6409 11 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.62911779203946,
+                -74.00542194544411
+            ]
+        },
+        {
+            "name": "64-09 ROOSEVELT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74597139057269,
+                -73.89984465883812
+            ]
+        },
+        {
+            "name": "641 6 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74071743258306,
+                -73.99440297510179
+            ]
+        },
+        {
+            "name": "641 6 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74071743258306,
+                -73.99440297510179
+            ]
+        },
+        {
+            "name": "6410 8 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.63310546590399,
+                -74.01205509199205
+            ]
+        },
+        {
+            "name": "64-11 39 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74641036167542,
+                -73.89962746014949
+            ]
+        },
+        {
+            "name": "64-12 FLUSHING AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.722746520499165,
+                -73.90129377395145
+            ]
+        },
+        {
+            "name": "64-13 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74957656406853,
+                -73.8982151261529
+            ]
+        },
+        {
+            "name": "64-14 ROOSEVELT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74596037079819,
+                -73.89979775924783
+            ]
+        },
+        {
+            "name": "6415 11 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.629090343010425,
+                -74.00544716150505
+            ]
+        },
+        {
+            "name": "64-15 ROOSEVELT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74597683925005,
+                -73.89979773447834
+            ]
+        },
+        {
+            "name": "6416 11 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.62909308659659,
+                -74.00547238002088
+            ]
+        },
+        {
+            "name": "64-16 FLUSHING AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.722762967351684,
+                -73.90126849584009
+            ]
+        },
+        {
+            "name": "64-16 ROOSEVELT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.745960355098255,
+                -73.89977971459571
+            ]
+        },
+        {
+            "name": "64-16 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71014903249881,
+                -73.89924561590553
+            ]
+        },
+        {
+            "name": "64-17 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74956831070925,
+                -73.89819348397909
+            ]
+        },
+        {
+            "name": "64-17 39 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74639934720547,
+                -73.89958777819582
+            ]
+        },
+        {
+            "name": "64-19 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74956280846744,
+                -73.8981790558662
+            ]
+        },
+        {
+            "name": "64-19 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71014626564147,
+                -73.89922037111475
+            ]
+        },
+        {
+            "name": "64-21 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74955730851412,
+                -73.8981682368823
+            ]
+        },
+        {
+            "name": "6422 11 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.6290656373841,
+                -74.00550119866332
+            ]
+        },
+        {
+            "name": "6423 11 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.62905740389344,
+                -74.00548318492868
+            ]
+        },
+        {
+            "name": "64-24 FLUSHING AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72279585794478,
+                -73.90121433190379
+            ]
+        },
+        {
+            "name": "64-24 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73240945970078,
+                -73.84934288814266
+            ]
+        },
+        {
+            "name": "64-25 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73237921467205,
+                -73.84930326629626
+            ]
+        },
+        {
+            "name": "64-28 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.732175994910875,
+                -73.84922073747536
+            ]
+        },
+        {
+            "name": "644 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7266259225292,
+                -73.99574990236586
+            ]
+        },
+        {
+            "name": "644 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7266259225292,
+                -73.99574990236586
+            ]
+        },
+        {
+            "name": "644 AMSTERDAM AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.79109402233976,
+                -73.97253901628648
+            ]
+        },
+        {
+            "name": "644 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67701296029293,
+                -73.9691069642861
+            ]
+        },
+        {
+            "name": "644 GRAND ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71138838563323,
+                -73.94649274777245
+            ]
+        },
+        {
+            "name": "644 FLATBUSH AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.657629397277674,
+                -73.96033980675536
+            ]
+        },
+        {
+            "name": "64-48 108 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73204141261884,
+                -73.84915248650026
+            ]
+        },
+        {
+            "name": "645 MANHATTAN AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.724362188431044,
+                -73.95113996255941
+            ]
+        },
+        {
+            "name": "645 LENOX AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.81872522278583,
+                -73.93750067904696
+            ]
+        },
+        {
+            "name": "645 HUDSON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73916116537717,
+                -74.00544172597765
+            ]
+        },
+        {
+            "name": "645 MELROSE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.818374495809636,
+                -73.91673424034167
+            ]
+        },
+        {
+            "name": "645 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67779513840144,
+                -73.9688001550126
+            ]
+        },
+        {
+            "name": "645 STERLING PL",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.6733641412264,
+                -73.95734910507947
+            ]
+        },
+        {
+            "name": "645 5 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66279339133767,
+                -73.99190442649484
+            ]
+        },
+        {
+            "name": "646 FRANKLIN AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67626758895571,
+                -73.95595565222298
+            ]
+        },
+        {
+            "name": "646 AMSTERDAM AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.79115713982288,
+                -73.97249204227319
+            ]
+        },
+        {
+            "name": "646 W 131 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.81814178153145,
+                -73.95835462610732
+            ]
+        },
+        {
+            "name": "646 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.676966304066205,
+                -73.96912501189567
+            ]
+        },
+        {
+            "name": "646 NOSTRAND AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67636117789162,
+                -73.94989889800081
+            ]
+        },
+        {
+            "name": "646 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.676966304066205,
+                -73.96912501189567
+            ]
+        },
+        {
+            "name": "646 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70259353550948,
+                -73.94516536647293
+            ]
+        },
+        {
+            "name": "646 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70259353550948,
+                -73.94516536647293
+            ]
+        },
+        {
+            "name": "646 BERGEN ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67935118567681,
+                -73.96793054170529
+            ]
+        },
+        {
+            "name": "646 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.676966304066205,
+                -73.96912501189567
+            ]
+        },
+        {
+            "name": "647 WASHINGTON AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67802148817645,
+                -73.96379233835506
+            ]
+        },
+        {
+            "name": "647 E 9 ST",
+            "description": "0.2 PCT ANNUAL CHANCE FLOOD HAZARD",
+            "geometry": [
+                40.725740281458215,
+                -73.97903481306042
+            ]
+        },
+        {
+            "name": "647 E 9 ST",
+            "description": "0.2 PCT ANNUAL CHANCE FLOOD HAZARD",
+            "geometry": [
+                40.725740281458215,
+                -73.97903481306042
+            ]
+        },
+        {
+            "name": "647 5 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.662743988957494,
+                -73.9919548945182
+            ]
+        },
+        {
+            "name": "647 4 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66352641511307,
+                -73.99482396643357
+            ]
+        },
+        {
+            "name": "647 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67752892035347,
+                -73.96889401553379
+            ]
+        },
+        {
+            "name": "648 WASHINGTON AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.678916346571704,
+                -73.96399014427796
+            ]
+        },
+        {
+            "name": "648 WASHINGTON AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.678916346571704,
+                -73.96399014427796
+            ]
+        },
+        {
+            "name": "648 GRAND ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7113965729127,
+                -73.94639174227837
+            ]
+        },
+        {
+            "name": "648 SOUNDVIEW AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.81818566108607,
+                -73.86276919130789
+            ]
+        },
+        {
+            "name": "648 10 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.76197546546922,
+                -73.99375142226204
+            ]
+        },
+        {
+            "name": "649 LENOX AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.818821250491915,
+                -73.93743194286105
+            ]
+        },
+        {
+            "name": "649 HUDSON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73931487326537,
+                -74.00541647852157
+            ]
+        },
+        {
+            "name": "649 W 181 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.84989832573533,
+                -73.93507853534472
+            ]
+        },
+        {
+            "name": "649 5 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66269458565438,
+                -73.99200536246693
+            ]
+        },
+        {
+            "name": "649 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.677479520368735,
+                -73.96891566993818
+            ]
+        },
+        {
+            "name": "649 GRAND ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.711418509116385,
+                -73.9463448328136
+            ]
+        },
+        {
+            "name": "649 9 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.76061663952601,
+                -73.99105146926554
+            ]
+        },
+        {
+            "name": "65 LAFAYETTE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.68707141131158,
+                -73.9758053985637
+            ]
+        },
+        {
+            "name": "65 W 23 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7423833203654,
+                -73.99153027296005
+            ]
+        },
+        {
+            "name": "65 MORTON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73091587968409,
+                -74.0063503007496
+            ]
+        },
+        {
+            "name": "65 WASHINGTON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70230695004476,
+                -73.98962748454655
+            ]
+        },
+        {
+            "name": "65 BERGEN ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.68692538008553,
+                -73.99094236928595
+            ]
+        },
+        {
+            "name": "65 2 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72604089366091,
+                -73.98954802550882
+            ]
+        },
+        {
+            "name": "65 WEST BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.714565098723625,
+                -74.00997762634225
+            ]
+        },
+        {
+            "name": "65 BERGEN ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.68692538008553,
+                -73.99094236928595
+            ]
+        },
+        {
+            "name": "65 ST MARK'S PL",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.68205211704154,
+                -73.98051597849857
+            ]
+        },
+        {
+            "name": "65 THOMPSON ST",
+            "description": "0.2 PCT ANNUAL CHANCE FLOOD HAZARD",
+            "geometry": [
+                40.72425997730377,
+                -74.00315679390023
+            ]
+        },
+        {
+            "name": "65 E 3 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72511858055849,
+                -73.9887544520641
+            ]
+        },
+        {
+            "name": "65 ROEBLING ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71671673290783,
+                -73.95466995516047
+            ]
+        },
+        {
+            "name": "65 WEST END AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.77450478647077,
+                -73.98835617919588
+            ]
+        },
+        {
+            "name": "65 W 8 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73327928150015,
+                -73.99875154456842
+            ]
+        },
+        {
+            "name": "65 PIKE ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71158995007623,
+                -73.99227724375763
+            ]
+        },
+        {
+            "name": "65 PIKE ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71158995007623,
+                -73.99227724375763
+            ]
+        },
+        {
+            "name": "65 BLEECKER ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72620320808357,
+                -73.99517267008518
+            ]
+        },
+        {
+            "name": "65 E 8 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73088839977223,
+                -73.99308683459388
+            ]
+        },
+        {
+            "name": "65 PIKE ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71158995007623,
+                -73.99227724375763
+            ]
+        },
+        {
+            "name": "65 PIKE ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71158995007623,
+                -73.99227724375763
+            ]
+        },
+        {
+            "name": "65 ROEBLING ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71671673290783,
+                -73.95466995516047
+            ]
+        },
+        {
+            "name": "65 ROEBLING ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71671673290783,
+                -73.95466995516047
+            ]
+        },
+        {
+            "name": "65 ROEBLING ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71671673290783,
+                -73.95466995516047
+            ]
+        },
+        {
+            "name": "65 ROEBLING ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71671673290783,
+                -73.95466995516047
+            ]
+        },
+        {
+            "name": "65 W 23 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7423833203654,
+                -73.99153027296005
+            ]
+        },
+        {
+            "name": "65 ROEBLING ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71671673290783,
+                -73.95466995516047
+            ]
+        },
+        {
+            "name": "65 5 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73565608185348,
+                -73.99385853449016
+            ]
+        },
+        {
+            "name": "65 W 11 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73486297263257,
+                -73.99700147045327
+            ]
+        },
+        {
+            "name": "65 W 11 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73486297263257,
+                -73.99700147045327
+            ]
+        },
+        {
+            "name": "65 W 11 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73486297263257,
+                -73.99700147045327
+            ]
+        },
+        {
+            "name": "65 5 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73565608185348,
+                -73.99385853449016
+            ]
+        },
+        {
+            "name": "65 5 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73565608185348,
+                -73.99385853449016
+            ]
+        },
+        {
+            "name": "65 N 6 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71923339998507,
+                -73.96143950883572
+            ]
+        },
+        {
+            "name": "65 N 6 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71923339998507,
+                -73.96143950883572
+            ]
+        },
+        {
+            "name": "65 RIVINGTON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72060632626029,
+                -73.99015134147557
+            ]
+        },
+        {
+            "name": "65 W 36 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.75073230793694,
+                -73.98599991848971
+            ]
+        },
+        {
+            "name": "65 W 36 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.75073230793694,
+                -73.98599991848971
+            ]
+        },
+        {
+            "name": "65 AINSLIE ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71257925457845,
+                -73.95190249148753
+            ]
+        },
+        {
+            "name": "65 AINSLIE ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71257925457845,
+                -73.95190249148753
+            ]
+        },
+        {
+            "name": "65 AINSLIE ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.71257925457845,
+                -73.95190249148753
+            ]
+        },
+        {
+            "name": "650 HOLLYWOOD AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.826525940770814,
+                -73.81841660838553
+            ]
+        },
+        {
+            "name": "650 HOLLYWOOD AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.826525940770814,
+                -73.81841660838553
+            ]
+        },
+        {
+            "name": "650 FULTON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.68681886997464,
+                -73.97570092396695
+            ]
+        },
+        {
+            "name": "650 W 168 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.84163449562857,
+                -73.94108967291578
+            ]
+        },
+        {
+            "name": "650 6 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74085466366438,
+                -73.9942766594214
+            ]
+        },
+        {
+            "name": "650 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72674394395563,
+                -73.99564887385942
+            ]
+        },
+        {
+            "name": "650 E TREMONT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.8460650644315,
+                -73.89247605143125
+            ]
+        },
+        {
+            "name": "650 MELROSE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.818604963748236,
+                -73.91661111426225
+            ]
+        },
+        {
+            "name": "650 HOLLYWOOD AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.826525940770814,
+                -73.81841660838553
+            ]
+        },
+        {
+            "name": "650 E TREMONT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.8460650644315,
+                -73.89247605143125
+            ]
+        },
+        {
+            "name": "650 PARK PL",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67404438081602,
+                -73.95611213839648
+            ]
+        },
+        {
+            "name": "650 GRAND AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.676220645588856,
+                -73.96294249611279
+            ]
+        },
+        {
+            "name": "650 AMSTERDAM AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.79128337559431,
+                -73.97240170418398
+            ]
+        },
+        {
+            "name": "650 FLATBUSH AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.6575141080366,
+                -73.96031464625786
+            ]
+        },
+        {
+            "name": "650 FULTON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.68681886997464,
+                -73.97570092396695
+            ]
+        },
+        {
+            "name": "650 SOUNDVIEW AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.81836154167489,
+                -73.86295308584513
+            ]
+        },
+        {
+            "name": "6501 FT HAMILTON PY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.630547575861904,
+                -74.00933459301336
+            ]
+        },
+        {
+            "name": "65-01 MYRTLE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70117077314842,
+                -73.89010584173047
+            ]
+        },
+        {
+            "name": "65-01 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.709588734502326,
+                -73.89882805356535
+            ]
+        },
+        {
+            "name": "65-04 MYRTLE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70115430115534,
+                -73.89010226237308
+            ]
+        },
+        {
+            "name": "6505 11 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.62853037708546,
+                -74.00603073539045
+            ]
+        },
+        {
+            "name": "65-06 GRAND AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72331109773871,
+                -73.90031524754858
+            ]
+        },
+        {
+            "name": "65-07 MYRTLE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70117890751682,
+                -73.89000123949056
+            ]
+        },
+        {
+            "name": "65-09 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70955302731509,
+                -73.89879925204836
+            ]
+        },
+        {
+            "name": "651 FULTON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.68819192428582,
+                -73.9791079176253
+            ]
+        },
+        {
+            "name": "651 MANHATTAN AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.72446376962104,
+                -73.95119761357554
+            ]
+        },
+        {
+            "name": "651 ACADEMY ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.86600072038509,
+                -73.9247768442579
+            ]
+        },
+        {
+            "name": "651 W 168 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.841650958302345,
+                -73.94107881596315
+            ]
+        },
+        {
+            "name": "651 W 168 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.841650958302345,
+                -73.94107881596315
+            ]
+        },
+        {
+            "name": "651 VANDERBILT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.67742737463784,
+                -73.96893372036502
+            ]
+        },
+        {
+            "name": "651 BROADWAY",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.62493573572611,
+                -74.11424641650223
+            ]
+        },
+        {
+            "name": "651 W 168 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.841650958302345,
+                -73.94107881596315
+            ]
+        },
+        {
+            "name": "651 W 168 ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.841650958302345,
+                -73.94107881596315
+            ]
+        },
+        {
+            "name": "651 FLATBUSH AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.657505866249224,
+                -73.96029302627348
+            ]
+        },
+        {
+            "name": "6510 11 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.62851390610648,
+                -74.00607396488451
+            ]
+        },
+        {
+            "name": "65-10 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7095365714646,
+                -73.89881370488443
+            ]
+        },
+        {
+            "name": "65-11 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7095447898772,
+                -73.89879565759088
+            ]
+        },
+        {
+            "name": "65-14 MYRTLE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70118145908345,
+                -73.88979927063299
+            ]
+        },
+        {
+            "name": "65-14 ROOSEVELT AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.74609102212214,
+                -73.89854525740965
+            ]
+        },
+        {
+            "name": "6516 11 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.62848920171656,
+                -74.00609918069995
+            ]
+        },
+        {
+            "name": "65-16 MYRTLE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70118689333725,
+                -73.8897415574603
+            ]
+        },
+        {
+            "name": "6517 11 AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.62847822244408,
+                -74.00608476937677
+            ]
+        },
+        {
+            "name": "65-19 MYRTLE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70119792072668,
+                -73.88979203039673
+            ]
+        },
+        {
+            "name": "652 HUDSON ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.73950151837928,
+                -74.00536597353353
+            ]
+        },
+        {
+            "name": "652 HENDRIX ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.66544230970448,
+                -73.88753696243566
+            ]
+        },
+        {
+            "name": "65-20 FRESH POND RD",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.7094898820795,
+                -73.89878131311262
+            ]
+        },
+        {
+            "name": "65-21 MAIN ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.738265188209475,
+                -73.82493238022994
+            ]
+        },
+        {
+            "name": "65-21 MAIN ST",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.738265188209475,
+                -73.82493238022994
+            ]
+        },
+        {
+            "name": "65-27 GRAND AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.723530334414946,
+                -73.89991806918103
+            ]
+        },
+        {
+            "name": "65-28 MYRTLE AV",
+            "description": "AREA OF MINIMAL FLOOD HAZARD",
+            "geometry": [
+                40.70123032121418,
+                -73.8892329659464
+            ]
+        }
+    ]
+}
